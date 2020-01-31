@@ -1,5 +1,11 @@
+
+
+
 # Linkedin EasyApply Bot
 Automate the application process on LinkedIn
+
+<img width="952" alt="easy apply" src="https://user-images.githubusercontent.com/52431957/73554676-2f340c00-441a-11ea-9dcc-832f3d1a3d24.PNG">
+
 
 # Usage
 1. download all the files
@@ -10,9 +16,3 @@ Automate the application process on LinkedIn
 6. if GUI off add your data to line 332-337 in easyapplybot.py
 
 * Make sure you have chromedriver installed in the assets folder!
-
-more info here: https://medium.com/xplor8/how-to-apply-for-1-000-jobs-while-you-are-sleeping-da27edc3b703
-
-Video: https://www.youtube.com/watch?v=4R4E304fEAs
-
-** We have integrated this code as an API of https://github.com/socialbotspy/LinkedinPy **
