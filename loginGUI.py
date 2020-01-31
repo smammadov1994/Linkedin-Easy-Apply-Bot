@@ -19,7 +19,7 @@ class LoginGUI(tk.Tk):
         container = tk.Frame(self)
         container.grid(row = 10)
 
-        label = tk.Label(self, text="Easy Apply Bot", font=self.title_font)
+        label = tk.Label(self, text="Seymur's Linkedin Easy Apply Bot", font=self.title_font)
         label.grid(row=0,columnspan = 2, pady=10)
 
         self.frames = {}

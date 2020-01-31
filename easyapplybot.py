@@ -19,7 +19,7 @@ class EasyApplyBot:
 
     def __init__(self,username,password, language, position, location, resumeloctn, appliedJobIDs, filename):
 
-        print("\nWelcome to Easy Apply Bot\n")
+        print("\nWelcome to Linkedin Easy Apply Bot\n")
         dirpath = os.getcwd()
         print("current directory is : " + dirpath)
         chromepath = dirpath + '/assets/chromedriver.exe'
